@@ -5,3 +5,9 @@ margin-top: 10px;
     display: block;
     margin-top: 10px;
 }
+table,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    color: hwb(0 0% 100% / 0.915);
+}
